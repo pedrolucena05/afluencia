@@ -1,0 +1,17 @@
+[
+    {
+      "cpf": "14808808765",
+      "email": "usuario1@usuario.com",
+      "password": "123",
+      "nome_professor" : "Amanda Soares",
+      "turma" : "D0202",
+      "escola" : "Geraldo Osório Rodrigues"
+    },
+    {
+      "email": "usuario2@example.com",
+      "password": "senha456",
+      "nome_professor" : "Carlos",
+      "turma" : "D0204",
+      "escola" : "Barão de Aiuruoca"
+    }
+]
